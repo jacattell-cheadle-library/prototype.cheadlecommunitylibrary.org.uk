@@ -1,0 +1,6 @@
+{
+  "name": "Cheadle Community Library",
+  "description": "Welcome to Cheadle Community Library — book and video loans, digital access, and community activities in the heart of Cheadle, Staffordshire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
